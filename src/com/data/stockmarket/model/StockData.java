@@ -11,7 +11,7 @@ public class StockData {
 	private String stockId;
 	private float faceValue;
 	private Date xDate;
-	private int stocksCount;
+	private int InventoryCount;
 	private float points;
 	public float getPoints() {
 		return points;
@@ -19,11 +19,11 @@ public class StockData {
 	public void setPoints(float points) {
 		this.points = points;
 	}
-	public int getStocksCount() {
-		return stocksCount;
+	public int getInventoryCount() {
+		return InventoryCount;
 	}
-	public void setStocksCount(int stocksCount) {
-		this.stocksCount = stocksCount;
+	public void setInventoryCount(int InventoryCount) {
+		this.InventoryCount = InventoryCount;
 	}
 	public String getStockName() {
 		return stockName;
