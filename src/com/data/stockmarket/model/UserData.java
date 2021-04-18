@@ -1,5 +1,8 @@
 package com.data.stockmarket.model;
 
+import com.data.stockmarket.validations.exceptions.AccountNumberLengthException;
+import com.data.stockmarket.validations.exceptions.PhoneNumberLengthException;
+
 //import java.util.Scanner;
 
 /** 

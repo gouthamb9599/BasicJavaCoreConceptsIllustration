@@ -1,4 +1,7 @@
-package com.data.stockmarket.model;
+package com.data.stockmarket.view;
+
+import com.data.stockmarket.model.StockData;
+
 /** 
  * This Program is a Interface that consists of the Stock Operational methods 
  * @author goutham.balaji

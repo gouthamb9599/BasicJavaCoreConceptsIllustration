@@ -1,4 +1,4 @@
-package com.data.stockmarket.model;
+package com.data.stockmarket.view;
 /** 
  * This Program performs all the UI action and connects with both User POJO and Stock POJO
  * @author goutham.balaji
@@ -8,6 +8,10 @@ package com.data.stockmarket.model;
 
 import java.util.Date;
 import java.util.Scanner;
+
+import com.data.stockmarket.controller.LongAndShortPosition;
+import com.data.stockmarket.model.StockData;
+import com.data.stockmarket.model.UserData;
 
 public class UserUI extends LongAndShortPosition implements StockUI {
 	@Override

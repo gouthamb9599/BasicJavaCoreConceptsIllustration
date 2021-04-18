@@ -1,4 +1,4 @@
-package com.data.stockmarket.model;
+package com.data.stockmarket.validations.exceptions;
 /** 
  * This Program is a Exception for Invalid Account Number
  * @author goutham.balaji

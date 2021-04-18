@@ -1,4 +1,7 @@
-package com.data.stockmarket.model;
+package com.data.stockmarket.controller;
+
+import com.data.stockmarket.model.StockData;
+
 /** 
  * This Program performs all the Business Logic Operations
  * @author goutham.balaji

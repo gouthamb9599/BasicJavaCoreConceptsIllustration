@@ -1,4 +1,4 @@
-package com.data.stockmarket.model;
+package com.data.stockmarket.validations.exceptions;
 /** 
  * This Program is a Exception for Invalid Phone Number
  * @author goutham.balaji
